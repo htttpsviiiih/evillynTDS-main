@@ -1,0 +1,31 @@
+a tag <b> é usada para deixar as palavras em negrito</b>
+a tag <u> é usada para sublinhar alguma palavra</u>
+
+exemplo:
+
+<p> isso é uma palavra <u> sublinhada </u>!!!</p>
+
+a tag <i> deixa as palavras em italico</i>
+a tag <em> tbm deixa em italico, mas é mais para destacar algo que precisa ser editado na parte da estilização</em>
+a tag <sup> faz uma elevação</sup>
+a tag <sub> é o contrário da sup</sub>
+a tag <small> diminui a letra da tag <p></p> </small>
+a tag <big>muda o tamanho da letra para grande, ela é a oposta da tag <small></small></big>
+
+para colocar algo dentro dos input vc precisa escrever |placeholderc = "nome"
+exemplo:
+  <input type = "text"| placeholder="nome">
+ font-weight: 100; deixa a letra fina
+ opacity: .7; como o nome já diz, muda a ocupacidade
+ 
+ U+02764
+UNICODE
+&#x2764; ---coração
+
+HEX CODE
+&#10084;
+HTML CODE 
+
+<ul><li>lista</li></ul>
+âncoras -> <a></a>
+<strong>tab para deixar palavras em negrito</strong>

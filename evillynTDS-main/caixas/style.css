@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background: #6420AA;
+    margin: 0%;
+}
+
+.caixa1 {
+    background-color: #FFB5DA;
+    height: 50px;
+    margin: 20px;
+    padding: 50px;
+    border-radius: 5px;
+    border: solid 3px black;
+
+
+}
+
+.caixa2 {
+    background-color: #FFB5DA;
+    height: 50px;
+    margin: 20px;
+    padding: 50px;
+    border-radius: 5px;
+    border: solid 3px black;
+
+}
+
+.caixa3 {
+    background-color: #FF3EA5;
+    width: 40px;
+    margin: 20px;
+    border-radius: 5px;
+    border: solid 3px black;
+    padding: 50px;
+
+}
+
+.caixa4 {
+    background-color: #FF3EA5;
+    width: 40px;
+    margin: 20px;
+    border-radius: 5px;
+    border: solid 3px black;
+    padding: 50px;
+
+}
+
+.container {
+    min-height: 400px;
+    width: 1120px;
+    background-color: #ff2ab8;
+    padding: 0;
+    float: left;
+    margin:20px ;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-position: center;
+    
+
+}
+
+.esconder {
+    display: none;
+}
+
+.bloco {
+    background-color: #FFB5DA;
+    width: 200px;
+    height: 200px;
+    block-size: border-box;
+    margin: 20px;
+}
+
+.b1 {
+    background-color: aquamarine;
+    float: left;
+    width:50px;
+}
+
+.b2 {
+    background-color: cornflowerblue;
+    float: left;
+    width:500px;
+}
+
+
+.b3 {
+    background-color: rgb(217, 61, 121);
+    float: left;
+}
+
+.b4 {
+    background-color: blanchedalmond;
+    float: left;
+}
